@@ -11,4 +11,3 @@ Aplikasi Noteapp dengan menggunakan database online dan menggunakan library PYQT
 - Firebase-Admin
 
 # Kontribusi
-Abi - Code Frontend dan Backend
