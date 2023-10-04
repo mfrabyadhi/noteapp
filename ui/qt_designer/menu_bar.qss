@@ -1,0 +1,27 @@
+MenuBar {
+    background-color: rgba(163, 188, 249, 255);
+}
+
+QPushButton#acc_button {
+    background-color: rgba(35, 37, 40, 255);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+QPushButton#acc_button:hover {
+    background-color: rgba(51, 54, 59, 255);
+}
+
+QPushButton#add_note_button,
+QPushButton#wid_button {
+    background-color: rgba(51, 54, 59, 255);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+QPushButton#add_note_button:hover,
+QPushButton#wid_button:hover {
+    background-color: rgba(77, 81, 89, 255);
+}
